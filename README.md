@@ -1,5 +1,5 @@
 # light_in_the_depths
 Proyecto 3º transversal
 
-éste es un ejemplo del readme disponible en el repositorio de nuestro proyecto.
-esta línea es una de prueba. cambios realizados el 19 de abril de 2020.
+15062020 UPDATE
+Link de descarga del proyecto: https://drive.google.com/file/d/1jZmZJDrQzbbwGqc2n0WpqMJsopOvqiV_/view?usp=sharing
